@@ -1,6 +1,6 @@
-node_modules
-quotes-darwin-x65
-quotes-linux-armv7l
-quotes-linux-arm64
-quotes-mas-x64
-quotes-win32-ia32
+node_modules/
+quotes-darwin-x65/
+quotes-linux-armv7l/
+quotes-linux-arm64/
+quotes-mas-x64/
+quotes-win32-ia32/
