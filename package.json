@@ -1,0 +1,25 @@
+{
+  "name": "quote-widget",
+  "version": "0.1.0",
+  "description": "Inspirational quotes widget",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/EnzoRobaina/electron-quote-generator",
+  "keywords": [],
+  "author": "Enzo",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-packager": "^12.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3",
+    "remote": "^0.2.6",
+    "request": "^2.87.0",
+    "shell": "^0.5.0"
+  }
+}

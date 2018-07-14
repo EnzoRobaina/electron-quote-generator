@@ -1,0 +1,14 @@
+body{
+    background-color:#1E1E1E;
+    overflow:hidden;
+    border-radius: 5px;
+    -webkit-app-region: drag;
+}
+#quote, #link, #author{
+    color:white;
+    font-family: Georgia, serif;
+}
+#bounds{
+    margin-top: 3%;
+    margin-bottom: 40%;
+}
