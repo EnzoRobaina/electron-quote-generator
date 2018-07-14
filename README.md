@@ -44,3 +44,7 @@ npm install popper.js --save
 ## API
 
 This simple app uses quotes on design [API](https://quotesondesign.com/api-v4-0/).
+
+## Author
+
+* **Enzo Robaina** -  - [GitHub](https://github.com/EnzoRobaina)
